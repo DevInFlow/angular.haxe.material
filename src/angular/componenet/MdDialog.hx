@@ -1,4 +1,4 @@
-package material;
+package angular.component;
 @:injectionName("$mdDialog")
 extern class MdDialog {
     public function new():Void;

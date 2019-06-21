@@ -1,5 +1,4 @@
-package material;
-
+package angular.component;
 @:injectionName("$mdSidenav")
 extern class MdSidenav {
     public function new():Void;

@@ -1,4 +1,4 @@
-package material;
+package angular.provider;
 @:injectionName("$mdDateLocaleProvider")
 extern class MdDateLocaleProvider {
     public var months:Array<String>;

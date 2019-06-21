@@ -1,4 +1,4 @@
-package material;
+package angular.provider;
 
 @:injectionName("$mdThemingProvider")
 extern class MdThemingProvider { 
