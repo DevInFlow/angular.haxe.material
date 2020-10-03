@@ -15,6 +15,6 @@
         "varadig"
     ],
     "dependencies": {
-        "angular.haxe": ""
+        "angular.haxe": "git:https://github.com/DevInFlow/angular.haxe.git"
     }
 }
